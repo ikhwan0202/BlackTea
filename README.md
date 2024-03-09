@@ -1,0 +1,2 @@
+# BlackTea
+only tea testnet
